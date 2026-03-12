@@ -11,11 +11,13 @@
 
 The platform simulates next-generation **space situational awareness systems** used by aerospace organizations to monitor satellites and space debris.
 
+*Originally developed during the **Hyperspace Innovation Hackathon**, this project was later refined and documented for demonstration and portfolio purposes.*
+
 ---
 
 # 🌍 Live Demo
 
-Frontend Deployment (Vercel)
+### Frontend Deployment (Vercel)
 
 🔗 https://frontend-rose-beta-63.vercel.app/
 
@@ -288,16 +290,20 @@ MIT License
 
 ---
 
-# 👨‍💻 Author
+# 👥 Team & Acknowledgment
 
-**Sohail Shirazi**
+This project was originally developed during the **Hyperspace Innovation Hackathon** by **Team Alchemist**.
 
-GitHub  
-https://github.com/imsohail07
+### Team Members
 
-LinkedIn  
-https://www.linkedin.com/in/sohail-shirazi-180mss7/
+- **Sohail Shirazi**
+- **G Varun**
+- **Aditi Singh**
+- **Simran Hati**
+- **Siddhi G**
 
 ---
+
+*Note:* This repository contains the version maintained and documented by **Sohail Shirazi** as part of his project portfolio.
 
 ⭐ If you find this project useful, please consider giving it a star.
